@@ -1,0 +1,111 @@
+.box {
+width: 1200px;
+margin: auto;
+}
+.title{
+    width: 1200px;
+    height: 80px;
+    background-image: url("fon.jpg");
+    position: fixed;
+}
+.content{
+    width: 99%;
+    margin: auto;
+}
+.paragraf{
+    width: 100%;
+    height: 400px;
+    box-shadow: 0 0 2px 2px rgba(8, 0, 114, 0.3), 0 0 5px 5px rgba(8, 0, 114, 0.15);
+    margin-top: 15px;
+  border-radius: 15px;
+  background: rgb(238, 238, 238);
+}
+.foto{
+    width: 800px;
+    height: 400px;
+    background: rgb(255, 208, 0);
+    float: left;
+    border-radius: 15px;
+}
+.text{
+    width: 378px;
+    height: 390px;
+    background: rgb(238, 238, 238);
+    float: right;
+    border-radius: 15px;
+    color: rgb(24, 24, 24);
+    font-size: 18px;
+    font-family:  Arial;
+    text-align: justify;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+.im{
+border-radius: 15px;
+}
+.text3{
+    text-align: center;
+    color: black;
+}
+   .falsh{
+height: 80px;
+width: 1200px;
+   } 
+   .ftitle{
+position: fixed;
+width: 1200px;
+height: 15px;
+background: rgb(255, 255, 255);
+top: 0px;
+   }
+.cnop{
+    color: rgb(0, 32, 121);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+float: left;
+font-size: 40px;
+height: 50px;
+width: 160px;
+
+margin-left: 10%;
+text-align: center;
+margin-top: 15px;
+border-width: 3px 3px;
+border: solid rgb(0, 32, 121);
+
+}
+
+.cnop:hover{
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+float: left;
+font-size: 40px;
+height: 50px;
+width: 160px;
+background: rgb(0, 32, 121);
+margin-left: 10%;
+text-align: center;
+margin-top: 15px;
+border-width: 3px 3px;
+border: solid rgb(255, 255, 255);
+box-shadow: 0px 0px 4px rgba(0, 32, 121, 0.63), 0px 0px 7px rgba(0, 32, 121, 0.411);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
